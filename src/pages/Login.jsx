@@ -59,7 +59,7 @@ const Login = () => {
           <p className="mt-2 text-center text-sm text-gray-600">
             Or{' '}
             <Link to="/register" className="font-medium text-[#FF6B35] hover:text-[#e55a2b]">
-              start your 14-day free trial
+              sign up
             </Link>
           </p>
         </div>
