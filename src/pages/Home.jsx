@@ -110,7 +110,7 @@ const Home = () => {
             {[
               {
                 title: 'Yoga Flow',
-                image: 'https://images.unsplash.com/photo-1544367563-12123d8965cd?w=800&auto=format&fit=crop&q=60',
+                image: 'https://www.uclahealth.org/sites/default/files/styles/landscape_3x2_032000_1280x853/public/images/c7/yoga-beginners.jpg?f=c187f846&itok=7y2J-0yg$0',
                 desc: 'Find your balance and improve flexibility.',
               },
               {
@@ -119,8 +119,8 @@ const Home = () => {
                 desc: 'High intensity interval training for maximum burn.',
               },
               {
-                title: 'Pilates Core',
-                image: 'https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&auto=format&fit=crop&q=60',
+                title: 'Reformer Pilates',
+                image: 'https://cdn.mos.cms.futurecdn.net/59UQV9ZCoSsdDz4zWQVn3D.jpg',
                 desc: 'Strengthen and tone your core muscles.',
               }
             ].map((cls, idx) => (
